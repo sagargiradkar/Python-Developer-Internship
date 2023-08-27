@@ -29,3 +29,4 @@ while True:
         print(converted_amount)
     else:
         print(f"{amount} {from_currency} is equal to {converted_amount} {to_currency}")
+print()
